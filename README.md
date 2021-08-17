@@ -28,12 +28,12 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <div align="center">
 <h3>My latest App:</h3>
-  Consider taking a look at my latest Movie App <br>
-Built with React | Redux | TMDB API | Styled-components <br>
+  Consider taking a look at my latest Video chat App <br>
+Built with Nodejs | React | Socket.io | webRTC <br>
   
 <br>
 </div>
 
 
 
-![image](https://raw.githubusercontent.com/MassiiNechiche/MovieApp---React-Hooks-React_Router-Styled_components-RMDB_API/master/MovieApp.png) 
+![image](https://raw.githubusercontent.com/MassiiNechiche/VidChat-Nodejs_React_socket.io_webRTC/main/Screenshots/calling.png) 
