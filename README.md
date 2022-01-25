@@ -24,15 +24,3 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
     
 </div>
   
-<br>
-<div align="center">
-<h3>My latest App:</h3>
-  Consider taking a look at my latest Chat App <br>
-Built with MongoDB | Express | React | Nodejs | Socket.io | Material-ui <br>
-  
-<br>
-</div>
-
-
-
-![image](https://raw.githubusercontent.com/MassiiNechiche/iChat-MERN_chat_app/main/iChat.png) 
