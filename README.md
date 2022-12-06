@@ -14,6 +14,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
     <a  target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"  width="45" height="45"/> </a> 
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"  width="45" height="45"/> </a> 
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="45" height="45"/> </a> 
+    <a target="_blank"> <img src="https://img.icons8.com/color/512/typescript.png"  width="45" height="45"/> </a> 
     <a style="padding-right:8px;" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
   <a  target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg"  width="45" height="45"/> </a> 
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"  width="45" height="45"/> </a> 
