@@ -26,7 +26,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
   
   <h3>Daily dev stats</h3> 
   <br/>
-  <a href="https://app.daily.dev/massii"><img src="https://api.daily.dev/devcards/17b4f9e4d9894d64a18b10a88d896ab2.png?r=66s" width="400" alt="Massii Nechiche's Dev Card"/></a>
+  <a href="https://app.daily.dev/massii"><img src="https://github.com/massiinechiche/massiinechiche/blob/main/devcard.svg" width="400" alt="Massii Nechiche's Dev Card"/></a>
     
 </div>
   
