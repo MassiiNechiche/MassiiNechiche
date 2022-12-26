@@ -22,6 +22,11 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <a  target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a style="padding-right:8px;" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="45" height="45"/> </a> 
     <a target="_blank"><img src="https://img.icons8.com/officel/50/000000/react.png" width="40" height="40"/></a><a target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40"/> </a><a target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-png-transparent.png"  width="35" height="40"/></a><a target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" height="40"/> </a><a target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"  width="40" height="40"/></a><a target="_blank"><img src="https://iconape.com/wp-content/png_logo_vector/socket-io-logo.png"  width="40" height="40"/></a> <a target="_blank"><img src="https://img.icons8.com/fluency/344/docker.png"  width="40" height="40"/></a> <a target="_blank"><img src="https://img.icons8.com/color/344/postgreesql.png"  width="40" height="40"/></a>
+  
+  
+  <h3>Daily dev stats</h3> 
+  <br/>
+  <a href="https://app.daily.dev/massii"><img src="https://api.daily.dev/devcards/17b4f9e4d9894d64a18b10a88d896ab2.png?r=66s" width="400" alt="Massii Nechiche's Dev Card"/></a>
     
 </div>
   
